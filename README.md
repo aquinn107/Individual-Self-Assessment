@@ -1,12 +1,11 @@
 # Individual-Self-Assessment
 
 ## Self-Assessment 
--
-
+I have gotten so much more out of this course than I could have ever expected. Going into my first day of class I don't think I was anywhere prepared for exactly how much material was going to be thrown at me and how fast. This course was a personal stepping stone for me; I was looking for something completely out of my comfort zone, and boy did I find it. Prior to this course, I would work on basic data analysis strictly through Excel, but now I am confident that I can change the way my business looks at and handles data. I've learned many different skills that I'll take with me; I don't think all of them will be utilized right away, but it's nice to say I know what I'm capable of. I'd be interested in additional courses similar to this in the future, but perhaps not the bootcamp style. I'd love to take the time to really hone in on things I wish to improve on.
 
 ## Team Assessment
--
+I believe our team worked extremely well together through this final project. We really spent the time together in the beginning to really nail down what we were trying to accomplish. We did have the challenge of collecting the data and finding questions that we could make work, but we were able to get it together for what I believe was a great presentation. Patrick, Daniela and myself in recent weeks had been fighting with our current work schedules being more hectic than usual, but we were really able to let our work shine when we contributed on our own time, and then come together to discuss everything when we were able to. Both Daniela and Patrick did such a great job, and I'm glad that we got together for this project.
 
 
 ## Summary of the Project
--
+In summary, our project model would ideally be used for insurance companies and consumers alike to better help determine more aggressive insurance rates for consumers. We started to look into if we can base the model solely on the vehicle itself, rather than driver, to be able to take factors into consideration that would help newer insured drivers avoid excessively high rates. With the time alotted for the project, we were able to get the minimal amount of data that would make this work. With more time, we would have liked to contact insurance companies to inquire on factors that are currently used to determine rates, along with getting additional historical data across different areas other than NYC for a broader audience.
